@@ -3361,9 +3361,6 @@ ul.feature-icons li:nth-child(2) {
   position: absolute;
   width: 2px;
 }
-#wrapper > section > header:before:hover {
-  background: skyblue;
-}
 
 #wrapper > section > header h1,
 #wrapper > section > header h2 {
@@ -3378,10 +3375,6 @@ ul.feature-icons li:nth-child(2) {
   height: 2px;
   position: absolute;
   top: 1rem;
-}
-#wrapper > section > header h1:before,
-#wrapper > section > header h2:before {
-  background: skyblue;
 }
 
 #wrapper > section > header h1:after,

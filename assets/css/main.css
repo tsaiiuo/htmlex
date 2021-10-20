@@ -3355,7 +3355,7 @@ ul.feature-icons li:nth-child(2) {
 }
 
 #wrapper > section > header:before {
-  background: #43d9b8;
+  background: #eba844;
   content: "";
   display: block;
   margin-top: 1rem;
@@ -3370,7 +3370,7 @@ ul.feature-icons li:nth-child(2) {
 
 #wrapper > section > header h1:before,
 #wrapper > section > header h2:before {
-  background: #43d9b8;
+  background: #eba844;
   content: "";
   display: block;
   height: 2px;
@@ -3380,7 +3380,7 @@ ul.feature-icons li:nth-child(2) {
 
 #wrapper > section > header h1:after,
 #wrapper > section > header h2:after {
-  background: #43d9b8;
+  background: #eba844;
   border-radius: 0.5rem;
   content: "";
   display: block;
@@ -3437,7 +3437,7 @@ ul.feature-icons li:nth-child(2) {
 }
 
 #wrapper > section:last-of-type > header:after {
-  background: #43d9b8;
+  background: #eba844;
   border-radius: 0.5rem;
   bottom: -1.5rem;
   content: "";
